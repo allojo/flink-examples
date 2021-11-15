@@ -1,0 +1,2 @@
+collect(scala.Tuple3<java.lang.String,java.lang.String,java.sql.Timestamp>)' in 'org.apache.flink.util.Collector' cannot be applied to '
+ (long, scala.Tuple3<java.lang.String,java.lang.String,java.sql.Timestamp>)'
